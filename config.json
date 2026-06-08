@@ -19,17 +19,10 @@
   },
 
   "whitelist": {
-  "enabled": false,
+  "enabled": true,
   "status": "ABERTA",
-  "message": "Whitelist Fechada"
+  "message": "Whitelist Aberta"
   },
-
-  "music": {
-  "enabled": false,
-  "url": "LINK_DIRETO_MP3",
-  "volume": 60,
-  "autoplay": false
- },
 
   "rules": [
     "Respeite todos os jogadores.",
