@@ -18,6 +18,19 @@
     "text": "Servidor: fivem.equipetl.com:30120\nDiscord: https://discord.gg/ynVwKUW75M\nInstagram: https://instagram.com/seuinstagram\nLauncher: 1.0.0"
   },
 
+  "whitelist": {
+  "enabled": true,
+  "status": "ABERTA",
+  "message": "Whitelist aberta para novos jogadores."
+  },
+
+  "music": {
+  "enabled": true,
+  "url": "LINK_DIRETO_MP3",
+  "volume": 60,
+  "autoplay": false
+ },
+
   "rules": [
     "Respeite todos os jogadores.",
     "Proibido RDM/VDM.",
