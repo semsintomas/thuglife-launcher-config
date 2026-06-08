@@ -19,13 +19,13 @@
   },
 
   "whitelist": {
-  "enabled": true,
+  "enabled": false,
   "status": "ABERTA",
   "message": "Whitelist aberta para novos jogadores."
   },
 
   "music": {
-  "enabled": true,
+  "enabled": false,
   "url": "LINK_DIRETO_MP3",
   "volume": 60,
   "autoplay": false
