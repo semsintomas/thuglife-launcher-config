@@ -4,25 +4,43 @@
   "serverPort": "30120",
 
   "discord": "https://discord.gg/ynVwKUW75M",
-  "instagram": "",
+  "instagram": "https://instagram.com/seuinstagram",
 
   "launcherVersion": "1.0.0",
+
+  "about": {
+    "title": "SOBRE A CIDADE",
+    "text": "Thug Life RJ é uma das maiores cidades de FiveM do Brasil.\nAqui a sua história é construída!"
+  },
+
+  "settings": {
+    "title": "CONFIGURAÇÕES",
+    "text": "Servidor: fivem.equipetl.com:30120\nDiscord: https://discord.gg/ynVwKUW75M\nInstagram: https://instagram.com/seuinstagram\nLauncher: 1.0.0"
+  },
+
+  "rules": [
+    "Respeite todos os jogadores.",
+    "Proibido RDM/VDM.",
+    "Siga o roleplay da cidade.",
+    "Use bom senso em todas as ações.",
+    "Leia as regras completas no Discord."
+  ],
 
   "news": [
     {
       "title": "SEASON 4 LIBERADA!",
       "description": "Muitas novidades e sistemas exclusivos para vocês.",
-      "date": "17/05/2026"
+      "date": "17/05/2024"
     },
     {
       "title": "EVENTO GUERRA DO MORRO",
       "description": "Prepare sua tropa e participe do evento valendo prêmios!",
-      "date": "16/05/2026"
+      "date": "16/05/2024"
     },
     {
       "title": "ATUALIZAÇÃO DO SERVIDOR",
       "description": "Correções e melhorias no desempenho do servidor.",
-      "date": "15/05/2026"
+      "date": "15/05/2024"
     }
   ]
 }
