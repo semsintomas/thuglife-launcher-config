@@ -10,7 +10,7 @@
 
   "about": {
     "title": "SOBRE A CIDADE",
-    "text": "quem manda e a gente"
+    "text": "teste"
   },
 
   "settings": {
@@ -28,6 +28,11 @@
 
   "news": [
     {
+      "title": "Sistema de Droga",
+      "description": "Arrumado e corrigido",
+      "date": "17/05/2026"
+    },
+      {
       "title": "Sistema de Droga",
       "description": "Arrumado e corrigido",
       "date": "17/05/2026"
