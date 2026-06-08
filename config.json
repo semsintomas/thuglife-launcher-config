@@ -34,18 +34,18 @@
 
   "news": [
     {
-      "title": "Sistema de Droga",
-      "description": "Arrumado e corrigido",
+      "title": "Titulo",
+      "description": "Descrição",
       "date": "17/05/2026"
     },
       {
-      "title": "Sistema de mesa",
-      "description": "Arrumado e corrigido",
+      "title": "Titulo",
+      "description": "Descrição",
       "date": "17/05/2026"
     },
       {
-      "title": "Sistema de mesa",
-      "description": "Arrumado e corrigido",
+      "title": "Titulo",
+      "description": "Descrição",
       "date": "17/05/2026"
     }
   ]
