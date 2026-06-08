@@ -1,0 +1,28 @@
+{
+  "serverName": "Thug Life RJ",
+  "serverIp": "fivem.equipetl.com",
+  "serverPort": "30120",
+
+  "discord": "https://discord.gg/ynVwKUW75M",
+  "instagram": "",
+
+  "launcherVersion": "1.0.0",
+
+  "news": [
+    {
+      "title": "SEASON 4 LIBERADA!",
+      "description": "Muitas novidades e sistemas exclusivos para vocês.",
+      "date": "17/05/2024"
+    },
+    {
+      "title": "EVENTO GUERRA DO MORRO",
+      "description": "Prepare sua tropa e participe do evento valendo prêmios!",
+      "date": "16/05/2024"
+    },
+    {
+      "title": "ATUALIZAÇÃO DO SERVIDOR",
+      "description": "Correções e melhorias no desempenho do servidor.",
+      "date": "15/05/2024"
+    }
+  ]
+}
