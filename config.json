@@ -13,15 +13,6 @@
     "text": "Venha pra TL"
   },
 
-  "mods": {
-  "enabled": true,
-  "version": "1.0.0",
-  "url": "COLE_AQUI_O_LINK_DIRETO_DO_ZIP",
-  "extractTo": "%localappdata%\\FiveM\\FiveM.app\\mods",
-  "fileName": "thuglife_mods.zip",
-  "message": "Pack de mods/cache da Thug Life RJ disponível."
-  },
-
   "settings": {
     "title": "CONFIGURAÇÕES",
     "text": "Servidor: fivem.equipetl.com:30120\nDiscord: https://discord.gg/ynVwKUW75M\nInstagram: https://instagram.com/seuinstagram\nLauncher: 1.0.0"
